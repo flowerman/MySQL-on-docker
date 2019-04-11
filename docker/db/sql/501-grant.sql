@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES ON world.* TO 'hogehoge'@'localhost' IDENTIFIED BY 'hogehoge';
